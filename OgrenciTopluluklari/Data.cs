@@ -10,6 +10,8 @@ namespace OgrenciTopluluklari
     {
         public static string CurrentUser;
         
+       
+
 
         public static string row0;
         public static string row1;
@@ -30,5 +32,7 @@ namespace OgrenciTopluluklari
         public static string row16;
         public static string row17;
         public static string row18;
+
+        public static string CurrentTOPLULUKLAR { get; internal set; }
     }
 }
